@@ -1,4 +1,3 @@
-
 Hey!
 
 This is my first project that I am creating with The Odin Project. I am going to build a basic recipe website using HTML to demonstrate the skills I have learned after completing the basic HTML lessons.
